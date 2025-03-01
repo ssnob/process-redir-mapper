@@ -1,0 +1,7 @@
+/.vs
+/Debug
+/process-redir-mapper/Debug
+/process-redir-mapper/x64
+/test-dll/x64
+/x64
+*.user
