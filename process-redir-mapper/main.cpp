@@ -45,7 +45,7 @@ int main(int argc, char* argv[])
 		return 1;
 	}
 
-	printf("[+] Mapped succesfully!");
+	printf("[+] Mapped successfully!");
 	NtResumeProcess(h_process);
 	return 0;
 }
